@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web3<br>👯 I’m looking to collaborate as Frontend developer<br>🤝 I’m looking for help with<br>🌱 I’m currently learning solidity and web3<br>💬 Ask me about React, Next, Typescript & web3
+🔭 I’m currently working on web3<br>👯 I’m looking to collaborate as Frontend developer<br>🤝 <br>🌱 I’m currently learning solidity and web3<br>💬 Ask me about React, Next, Typescript & web3
 
 
 ## 🌐 Socials:
