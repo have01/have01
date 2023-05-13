@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend <br>👯 I’m looking to collaborate as Frontend developer<br>🤝Code with coffee <br>🌱 I’m currently learning solidity and web3<br>💬 Ask me about React, Next, Typescript & web3
+🔭 I’m currently working on frontend <br>👯 I’m looking to collaborate as Frontend developer<br>🤝Code with coffee <br>🌱 I’m currently learning solidity and web3<br>💬 Ask me about React, Next, Typescript< Tailwind Css
 
 
 ## 🌐 Socials:
